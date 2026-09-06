@@ -476,6 +476,8 @@ And that's what made the project worth building.
 *   Streamlit
     
 
+Github : https://github.com/murthy30300/zomato-data-analytics
+
 * * *
 
 #DataEngineering #Snowflake #AI #Airflow #dbt #AWS #LLM #RAG #TextToSQL #BuildInPublic
