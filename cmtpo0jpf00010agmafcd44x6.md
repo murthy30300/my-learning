@@ -1,9 +1,12 @@
 ---
 title: "What If Your Food Delivery App Could Just... Understand You?"
+seoTitle: "AI-Powered Food Data Platform with Snowflake, dbt & Airflow"
+seoDescription: " built an AI food data platform using AWS S3, Snowflake, dbt, Airflow, RAG, and natural-language-to-SQL to turn raw data into actionable insights."
 datePublished: 2026-09-06T10:24:48.592Z
 cuid: cmtpo0jpf00010agmafcd44x6
-slug: what-if-your-food-delivery-app-could-just-understand-you
+slug: ai-powered-food-data-platform-snowflake-dbt-airflow
 cover: https://cdn.hashnode.com/uploads/covers/66f590c9120870cbbe3a72f4/5f738313-0e92-4ab0-acaf-eda02ae31464.png
+tags: snowflake, artificial-intelligence, airflow, data-engineering, dbt
 
 ---
 
